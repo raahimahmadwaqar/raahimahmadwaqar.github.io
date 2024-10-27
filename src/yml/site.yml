@@ -1,13 +1,15 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: KubeRAW
+title: KubeRAW | Managing Kubernetes with Raahim
+description: KubeRAW is your all in one solution to managing your Kubernetes fleet using Dev-Ops principles 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - articles
+  - kubernetes
+  - upgrade
+  - helm
+  - pods
+  - networking
+
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +20,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: raahimahmed07@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
