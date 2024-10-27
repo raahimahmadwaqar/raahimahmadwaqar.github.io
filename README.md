@@ -1,6 +1,6 @@
 # KubeRAW
 
-![Cover](/Users/raahimahmadwaqar/Documents/raahimahmadwaqar.github.io/assets/img/cover.png)
+![Cover](assets/img/cover.png)
 
 ## Author
 
